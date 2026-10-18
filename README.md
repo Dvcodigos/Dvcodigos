@@ -1,6 +1,6 @@
 ## Olá! Sou o Davi Cordeiro 👋
 
-Sou um estudante de Análise e Desenvolvimento de SistemaS, com conhecimento com a área administrativa. Sou apaixonado por tecnologia e focado em desenvolver minhas habilidades de programação e criar soluções criativas. Além da área tech, possuo conhecimento e experiência prática na área administrativa e com atendimento ao cliente.
+Sou um estudante de Análise e Desenvolvimento de Sistemas, com conhecimento da área administrativa. Sou apaixonado por tecnologia e focado em desenvolver minhas habilidades de programação e criar soluções criativas. Além da área tech, possuo conhecimento e experiência prática na área administrativa e com atendimento ao cliente.
 
 ### 🚀 O que estou fazendo atualmente
 - 💻 Desenvolvendo e aprimorando projetos web e aplicações de gestão.
