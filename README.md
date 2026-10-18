@@ -1,4 +1,4 @@
-## Olá! Sou o Davi Cordeiro 👋
+## Olá! Sou o Davi!
 
 Sou um estudante de Análise e Desenvolvimento de Sistemas,apaixonado por tecnologia e focado em desenvolver minhas habilidades de programação e criar soluções criativas. Além da área tech, possuo conhecimento e experiência prática na área administrativa e com atendimento ao cliente.
 
